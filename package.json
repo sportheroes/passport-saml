@@ -32,7 +32,7 @@
   "dependencies": {
     "passport-strategy": "*",
     "q": "^1.5.0",
-    "xml-crypto": "^0.9.0",
+    "xml-crypto": "https://github.com/sportheroes/xml-crypto#master",
     "xml-encryption": "~0.10",
     "xml2js": "0.4.x",
     "xmlbuilder": "^8.2.2",
